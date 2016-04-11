@@ -1,0 +1,57 @@
+/* Inserta tu CSS aqui */
+.contenedor{
+	background-color: #088A4B;
+	width: 700px;
+	height: 400px;
+	padding: 20px;
+}
+.uno{
+	background-color: #088A4B;
+	border: 1px solid #FFFFFF;
+	width: 650px;
+	height: 350px;
+	position: relative;
+	padding: 20px;
+}
+.izquierda{
+	border: 1px solid #FFFFFF;
+	width: 100px;
+	height: 150px;
+	float: left;
+	margin-top: 80px;
+	margin-left: -20px;
+}
+.derecha{
+	border: 1px solid #FFFFFF;
+	width: 100px;
+	height: 150px;
+	float: right;
+	margin-top: 80px;
+	margin-right: -20px;
+}
+.circulo{
+	border-radius: 100px;
+	border: 1px solid #FFFFFF;
+	position: fixed;
+	width: 150px;
+	height: 150px;
+	margin-top: 80px;
+	margin-left: 250px;
+}
+.bolauno{
+	position: fixed;
+	float: left;
+	margin-top: 85px;
+	margin-left: 70px;
+}
+.bolados{
+	position: fixed;
+	margin-top: 20px;
+	margin-left: 335px;
+}
+.bolatres{
+	position: fixed;
+	margin-top: 200px;
+	margin-left: 540px;
+	float: right;
+}
